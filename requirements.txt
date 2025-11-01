@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+requests
+langchain
+langchain-groq
+langchain-community
+langchain-classic
+langchain-text-splitters
+langchain-huggingface
+faiss-cpu
+python-dotenv
+sentence-transformers
+pypdf
+python-multipart
